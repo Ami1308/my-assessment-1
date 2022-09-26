@@ -104,7 +104,7 @@ button.cart{
     font-weight: bold;
 }
 .section-1{
-    background-image: url(.my-assessment-1/assets/img/bgimg1.jpg);
+    background-image: url(/my-assessment-1/assets/img/bgimg1.jpg);
     background-size:cover;
     height: 450px; 
     margin-bottom: 3%;
