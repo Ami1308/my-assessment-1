@@ -103,6 +103,11 @@ button.cart{
     padding: 1%;
     font-weight: bold;
 }
+.menubar i{
+    height: 28px;
+    width: 21px;
+    margin-top: 3%;
+}
 .section-1{
     background-image: url(/my-assessment-1/assets/img/bgimg1.jpg);
     background-size:cover;
